@@ -1,4 +1,4 @@
-# c2-physics
+# c2-car-physics
 
 ## Tutorial: 
 https://www.scirra.com/tutorials/323/create-car-physics/page-1
